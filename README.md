@@ -5,4 +5,4 @@
   Future research could refine sentiment measures by integrating valence and arousal dimensions and analyzing specific emotions (happiness, anger, disgust, fear) to assess sector-specific market impacts. Identifying relevant market sectors may involve ticker indexing and clustering methods, or entity recognition with fine-tuned language models. This sentiment data could also enhance long-term forecasts using models like LSTM. This work provides a straightforward integration of large language models and NewsAPI for improved market sentiment analysis.
 
   
-![Optional Text](https://github.com/nunokf/Intra-day-Forecasting-of-Nasdaq-The-Role-of-Market-Sentiment/blob/main/images/dtw.png)
+![Optional Text](https://github.com/nunokf/Intra-day-Forecasting-of-Nasdaq-The-Role-of-Market-Sentiment/blob/main/images/git_bnp.png)
